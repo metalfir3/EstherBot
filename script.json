@@ -1,6 +1,7 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Bijan, Want to know more about bots or learn about Bijan? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Bijan](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, how are you there?",
+    "here_for_the_bot" : "So you like robots huh? https://www.youtube.com/watch?v=ilnnMzK_m8w"
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Bijan is back."
